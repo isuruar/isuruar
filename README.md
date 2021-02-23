@@ -8,7 +8,7 @@ I like experimenting with new technologies, building small projects, and occassi
 <ul>
 <li>Languages : JAVA, PHP, C#, JavaScript, Phython, R</li>
 <li>Frameworks : Spring Boot</li>
-<li>-Data Warehouse Tools : SQL Management Studio</li>
+<li>Data Warehouse Tools : SQL Management Studio</li>
 <li>ETL Tools : QL Server Data Tools</li>
 <li>Analytical Tools : SSAS</li>
 <li>Report Builder Tools : SSRS</li>
@@ -28,6 +28,12 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>Doing JavaScript projects!</li>
 </ul>
 
+<details>
+
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=chartreuse-dark)
+
+</details>
+
 <h3>😉 Find me on</h3>
 
 <ul>
@@ -36,9 +42,4 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>Instagram - https://www.instagram.com/isuruasirii/?hl=en</li>
 <li>Twitter - https://twitter.com/isuruar</li>
 </ul>
-
-
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=chartreuse-dark)
-
-
 
