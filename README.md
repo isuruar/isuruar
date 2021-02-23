@@ -29,9 +29,9 @@ I like experimenting with new technologies, building small projects, and occassi
 </ul>
 
 <details>
-<summary>Some other facts about me</summary>
+<summary>Some other facts about me
 ![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=chartreuse-dark)
-
+</summary>
 </details>
 
 <h3>😉 Find me on</h3>
