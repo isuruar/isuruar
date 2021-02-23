@@ -6,7 +6,7 @@ I like experimenting with new technologies, building small projects, and occassi
 
 <h3>💻 Some of my things</h3>
 <ul>
-<li>JavaScript</li>
+<li>:JavaScript:</li>
 <li>React</li>
 <li>Node JS</li>
 <li>HTML</li>
