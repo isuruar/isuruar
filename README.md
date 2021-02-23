@@ -26,8 +26,8 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>Twitter - https://twitter.com/isuruar</li>
 </ul>
 
-<details>
-https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=gruvbox
+
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=chartreuse-dark)
 
 
 Fun facts about me
