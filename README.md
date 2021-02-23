@@ -4,7 +4,7 @@ I'm Isuru Ranaweera. Currently a Software Engineering Final Year Undergrad at Es
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
-<h3>💻 Some of my things</h3>
+<h3>💻 My Tech Stack</h3>
 <ul>
 <li>JavaScript</li>
 <li>React</li>
@@ -16,6 +16,14 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>C#</li>
 <li>MySQL</li>
 <li>MongoDB</li>
+</ul>
+
+<h3>Here's a list of things I currently keep myself busy with:</h3>
+<ul>
+<li>👩🏻‍💻Following Web Developer Bootcamp on Udemy</li>
+<li>Learning ReactJS</li>
+<li>🛠 Getting myself into React Native</li>
+<li>Doing JavaScript projects!</li>
 </ul>
 
 <h3>😉 Find me on</h3>
