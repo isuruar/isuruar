@@ -1,10 +1,20 @@
 
-Hi there 👋
+<h2>Hi there 👋</h2>
 I'm Isuru Ranaweera. Currently a Software Engineering Final Year Undergrad at Esoft Metro Campus, Colombo.
 
-<h2>💻 Some of my things</h2>
+<h3>💻 Some of my things</h3>
+<ul>
+<li>JavaScript</li>
+<li>React</li>
+<li>Node JS</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Java</li>
+<li>Python</li>
+<li>C#</li>
+</ul>
 
-JavaScript React Nodejs
+  
 
 MongoDB MySQL Git Amazon AWS
 
