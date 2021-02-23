@@ -28,9 +28,8 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>Doing JavaScript projects!</li>
 </ul>
 
-<details>
 ![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=chartreuse-dark)
-</details>
+
 
 <h3>😉 Find me on</h3>
 
