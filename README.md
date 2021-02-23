@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**isuruar/isuruar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+I'm Isuru Ranaweera. Currently a Software Engineering Final Year Undergrad at Esoft Metro Campus, Colombo.
 
-Here are some ideas to get you started:
+💻 Some of my things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript TypeScript React Nodejs
+
+MongoDB MySQL Git Amazon AWS
+
+😉 Find me on
+
+LinkedIn Instagram Facebook Twitter
+
