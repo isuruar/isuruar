@@ -6,16 +6,18 @@ I like experimenting with new technologies, building small projects, and occassi
 
 <h3>💻 My Tech Stack</h3>
 <ul>
-<li>JavaScript</li>
-<li>React</li>
-<li>Node JS</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>Java</li>
-<li>Python</li>
-<li>C#</li>
-<li>MySQL</li>
-<li>MongoDB</li>
+<li>Languages : JAVA, PHP, C#, JavaScript, Phython, R</li>
+<li>Frameworks : Spring Boot</li>
+<li>-Data Warehouse Tools : SQL Management Studio</li>
+<li>ETL Tools : QL Server Data Tools</li>
+<li>Analytical Tools : SSAS</li>
+<li>Report Builder Tools : SSRS</li>
+<li>Web Technologies : HTML5, CSS3, Bootstrap, JSON</li>
+<li>Database System : MySQL, Oracle</li>
+<li>Web Services : RESTful Web Services, SOAP Services</li>
+<li>Applications : Eclipse, Microsoft Visual Studio, WebStorm IntelliJ IDEA, Visual Studio Code, Spring boot</li>
+<li>Database Tools : MySQL Workbench</li>
+<li>Statistical Analyse Tools : RStudio</li>
 </ul>
 
 <h3>Here's a list of things I currently keep myself busy with:</h3>
