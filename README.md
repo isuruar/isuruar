@@ -18,7 +18,7 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>MongoDB</li>
 </ul>
 
-😉 Find me on
+<h3>😉 Find me on</h3>
 
 <ul>
 <li>LinkedIn - https://www.linkedin.com/in/isuruar/</li>
@@ -29,5 +29,5 @@ I like experimenting with new technologies, building small projects, and occassi
 
 ![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruar&show_icons=true&theme=chartreuse-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isuruar&repo=github-readme-stats)](https://github.com/isuruar/github-readme-stats)
+
 
