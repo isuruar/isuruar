@@ -29,7 +29,7 @@ I like experimenting with new technologies, building small projects, and occassi
 <h3>😉 Find me on</h3>
 
 <ul>
-<li>LinkedIn - https://www.linkedin.com/in/isuruar/</li>
+<li><i class="ri-linkedin-box-fill"></i>LinkedIn - https://www.linkedin.com/in/isuruar/</li>
 <li>Instagram - https://www.instagram.com/isuruasirii/?hl=en</li>
 <li>Twitter - https://twitter.com/isuruar</li>
 </ul>
