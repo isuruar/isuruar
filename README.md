@@ -6,8 +6,9 @@ I like experimenting with new technologies, building small projects, and occassi
 
 <h3>💻 My Tech Stack</h3>
 <ul>
-<li>Languages : JAVA, PHP, C#, JavaScript, Phython, R</li>
+<li>Languages : JAVA, PHP, C#, JavaScript, Python, R</li>
 <li>Frameworks : Spring Boot</li>
+<li>Libraries : React</li>
 <li>Data Warehouse Tools : SQL Management Studio</li>
 <li>ETL Tools : QL Server Data Tools</li>
 <li>Analytical Tools : SSAS</li>
