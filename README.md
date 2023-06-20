@@ -14,7 +14,7 @@ I like experimenting with new technologies, building small projects, and occassi
 <li>Analytical Tools : SSAS</li>
 <li>Report Builder Tools : SSRS</li>
 <li>Web Technologies : HTML5, CSS3, Bootstrap, JSON</li>
-<li>Database System : MySQL, Oracle</li>
+<li>Database System : MySQL</li>
 <li>Web Services : RESTful Web Services, SOAP Services</li>
 <li>Applications : Eclipse, Microsoft Visual Studio, WebStorm IntelliJ IDEA, Visual Studio Code, Spring boot</li>
 <li>Database Tools : MySQL Workbench</li>
