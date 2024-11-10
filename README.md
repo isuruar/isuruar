@@ -1,6 +1,6 @@
 
 <h2>Hi there 👋</h2>
-I'm Isuru Ranaweera. Currently a Software Engineering Final Year Undergrad at Esoft Metro Campus, Colombo.
+I'm Isuru Ranaweera. I am a recent graduate in IT with a computer science background.
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
